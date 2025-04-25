@@ -1,4 +1,3 @@
-# Marketing-Campaign-Analysis
 # Marketing Campaign Performance Analysis
 
 This repository contains the analysis and insights from a marketing campaign performance study using various metrics and tools like Excel and Power BI. The goal of this project is to assess the effectiveness of various marketing campaigns to optimize future marketing strategies and budget allocations.
